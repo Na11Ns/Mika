@@ -6,7 +6,7 @@
 
 <img src="assets/wallet.svg" alt="Mika's wallet" width="100%"/>
 
-### 🐾 `Wallet: TBA`
+### 🐾 `Wallet: Mika1hkF8p2D1UghtHW9dJintfVbi47K6MCSXYoaKse`
 
 <sub>☝️ the one and only official Mika wallet. if it isn't posted right here, it isn't Mika.</sub>
 
@@ -274,7 +274,7 @@ No. Mika is a <b>trading companion and public journal</b> — a framework, a CLI
 <details>
 <summary><b>Where is the wallet?</b></summary>
 <br/>
-<code>Wallet: TBA</code>. It will be posted at the very top of this README and nowhere else first. If someone DMs you "Mika's wallet," it's not Mika.
+<code>Wallet: Mika1hkF8p2D1UghtHW9dJintfVbi47K6MCSXYoaKse</code>. It will be posted at the very top of this README and nowhere else first. If someone DMs you "Mika's wallet," it's not Mika.
 </details>
 
 <details>
