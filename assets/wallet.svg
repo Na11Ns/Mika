@@ -20,11 +20,11 @@
  <g fill="#ff8fb8" filter="url(#glow)"><ellipse cx="0" cy="8" rx="13" ry="11"/><ellipse cx="-14" cy="-8" rx="5.5" ry="7"/><ellipse cx="-4" cy="-16" rx="5.5" ry="7"/><ellipse cx="7" cy="-16" rx="5.5" ry="7"/><ellipse cx="16" cy="-6" rx="5.5" ry="7"/>
  <animateTransform attributeName="transform" type="rotate" values="-8;8;-8" dur="2s" repeatCount="indefinite"/></g>
 </g>
-<text x="140" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="5" fill="#b9a2ff">MIKA'S TREAT JAR · OFFICIAL WALLET</text>
-<text x="138" y="112" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="44" font-weight="900" fill="#ffd6e5">WALLET: <tspan fill="#ff8fb8" filter="url(#glow)">TBA<animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/></tspan></text>
+<text x="140" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="5" fill="#b9a2ff">MIKA'S TREAT JAR · OFFICIAL WALLET</text>
+<text x="138" y="88" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="900" fill="#ffd6e5">WALLET</text><text x="140" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" font-weight="700" fill="#ff8fb8" filter="url(#glow)">Mika1hkF8p2D1UghtHW9dJintfVbi47K6MCSXYoaKse<animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/></text>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" transform="translate(800,58)">
  <rect width="150" height="34" rx="17" fill="#7cf5c4" fill-opacity=".1" stroke="#7cf5c4" stroke-opacity=".7"/>
  <circle cx="20" cy="17" r="5" fill="#7cf5c4"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
- <text x="34" y="22" fill="#7cf5c4">COMING SOON</text>
+ <text x="34" y="22" fill="#7cf5c4">LIVE</text>
 </g>
 </svg>
