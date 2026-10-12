@@ -254,7 +254,7 @@ MIKA/
 - [x] Thesis-first diary template
 - [x] `mika` CLI: wake / new / log / stats / rules
 - [x] Mood tracking per trade
-- [ ] Official wallet published (**Wallet: TBA**)
+- [ ] Official wallet published (**Wallet: Mika1hkF8p2D1UghtHW9dJintfVbi47K6MCSXYoaKse**)
 - [ ] Auto-generated weekly recap entries
 - [ ] Public stats page rendered from `trades.csv`
 - [ ] Prowl filters as config (`mika prowl --min-liq …`)
